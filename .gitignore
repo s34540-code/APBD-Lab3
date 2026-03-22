@@ -1,0 +1,15 @@
+
+ConsoleApp2/bin/
+ConsoleApp2/obj/
+
+.idea/
+*.iml
+
+
+.DS_Store
+
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
